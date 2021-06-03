@@ -76,7 +76,7 @@ a {
     left: 0;
     height: 9rem;
     z-index: 1;
-    background-color: var(--clr-black);
+    background-color: rgba(0,0,0,.7);
 }
 
 .logo {
