@@ -761,6 +761,10 @@ button:hover {
     .three-columns-grid {
         grid-gap: 0;
     }
+    
+    .btn-book {
+        padding: var(--md);
+    }
 
     .footer {
         margin-top: 40rem;
