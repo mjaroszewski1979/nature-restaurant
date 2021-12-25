@@ -21,18 +21,18 @@
 -------------------
 
 ### Features:
- * Compatible with devices of all sizes  &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/tablet.png">
+ * Compatible with devices of all sizes  
  * CSS custom properties for fast and forward-looking design
- * HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
+ * HTML and CSS minification process aims to reduce webpage loading speed 
  * CSS Flexbox applied to simplify complex layout design
- * Font awesome icons collection &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/font_awesome.png">
+ * Font awesome icons collection 
  * Advanced CSS styling techniques applied: transitions, animations and image filtering
- * Netlify form submission and spam filters &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/login.png"> 
+ * Netlify form submission and spam filters 
 
 -------------------
 
-  ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature-restaurant.gif)
+   ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature-restaurant.gif)
 
   Live | Code | Technologies
   ---- | ---- | ------------
-  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://nature-restaurant.netlify.app) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github1.png">](https://github.com/mjaroszewski1979/nature-restaurant) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html1.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jquery.png">
+  [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/netlify1.png">](https://nature-restaurant.netlify.app) | [<img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/github_g.png">](https://github.com/mjaroszewski1979/nature-restaurant) | <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/html_g.png"> &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/css_g.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/js1.png"> &nbsp; &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/jquery_g.png">
