@@ -31,7 +31,7 @@
 
 -------------------
 
-   ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature-restaurant.gif)
+   ![caption](https://github.com/mjaroszewski1979/nature-restaurant/blob/main/nature_mockup.png)
 
   Live | Code | Technologies
   ---- | ---- | ------------
